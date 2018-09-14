@@ -6,4 +6,4 @@
 - Selma Delgado
 - John Kim
 
-https://michaelguillen7.github.io/project_one/
+https://github.com/ewgalassi/project_one
