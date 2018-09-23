@@ -6,4 +6,4 @@
 - Selma Delgado
 - John Kim
 
-https://github.com/ewgalassi/project_one
+https://ewgalassi.github.io/project_one/
